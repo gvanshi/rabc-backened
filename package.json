@@ -12,9 +12,9 @@
     "vercel",
     "api"
   ],
-  "author": "Your Name",
+  "author": "Vanshika",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^1.0.0"
+    "json-server": "^0.17.3" // Corrected version
   }
 }
