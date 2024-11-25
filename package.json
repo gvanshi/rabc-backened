@@ -7,11 +7,7 @@
     "start": "node api/index.js",
     "build": "echo 'Nothing to build'"
   },
-  "keywords": [
-    "json-server",
-    "vercel",
-    "api"
-  ],
+  "keywords": ["json-server", "vercel", "api"],
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
